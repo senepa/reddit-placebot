@@ -1,0 +1,11 @@
+Non-tech install
+
+These are the step-by step instructions for non-tech people:
+
+Go to nodejs.org and download and install the latest version (6.10 LTS)
+Uncompress this downloaded zip file
+Go to the uncompressed folder
+Enter your user name and password for reddit into the users.json file. If you have several accounts look into the users.example.json for an example. 
+Run one time as admin: install.bat (Windows) or install.sh (Linux or Mac) and wait until it finishes
+Run every time you want to use it: start.bat (Windows) or start.sh (Linux or Mac)
+start by typing: npm run start
